@@ -151,7 +151,7 @@ This project is configured to deploy on **Railway** (or Render/PythonAnywhere wi
 4. Set the environment variables listed above in Railway's dashboard
 5. Railway builds using the included `Procfile`:
    ```
-   web: gunicorn ytksa.wsgi --log-file -
+   web: gunicorn ytksa.wsgi --log-file --
    ```
 6. Generate a public domain under Settings → Networking
 
@@ -162,7 +162,7 @@ This project is configured to deploy on **Railway** (or Render/PythonAnywhere wi
 **Kondrathi Shiva Shankar**
 
 - B.Tech Computer Science & Engineering
-- Python Developer
+- Python Developer 
 - AI/ML & Computer Vision Enthusiast
 
 GitHub: https://github.com/ShivaShankar2026
@@ -175,4 +175,4 @@ LinkedIn: https://www.linkedin.com/in/kondrathi-shiva-shankar-8008ss/
 
 This project is developed for educational purposes.
 
-MIT License   
+MIT License
