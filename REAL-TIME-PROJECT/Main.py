@@ -14,7 +14,6 @@ import scipy.misc as sm
 import cv2
 import matplotlib.pyplot as plt 
 
-
 main = tkinter.Tk()
 main.title("Density Based Smart Traffic Control System")
 main.geometry("1300x1200")
